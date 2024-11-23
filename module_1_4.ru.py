@@ -1,0 +1,8 @@
+my_string=input("На сколько завеcти будильник? ")
+print("Будильник заведен на:", my_string)
+print(len(my_string))
+print("На сколько завеcти будильник? " .upper())
+print("На сколько завеcти будильник? ".lower())
+print("На сколько завеcти будильник? ".replace(' ', ''))
+print(my_string [0])
+print(my_string[-1])
